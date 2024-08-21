@@ -45,4 +45,11 @@ Casual  | 94.57  |  3.77 | 0.96 | 0.71
 Member  | 96.65  |  2.73 | 0.25 | 0.37
 
 From the table we can see both of the majority users are riding less than half hour. Hence let's take a closer look at the half hour distribution:
-![Alt text](Casual_Duration_Distribution.png)     ![Alt text](Member_Duration_Distribution.png)  
+
+Casual             |  Member
+:-------------------------:|:-------------------------:
+![](Casual_Duration_Distribution.png)  |  ![](Member_Duration_Distribution.png)
+
+From the chats, we can conclude that they are similai in distribution of duration withitn one hour.
+
+### Distance 
