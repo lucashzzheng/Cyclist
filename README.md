@@ -61,3 +61,7 @@ Casual             |  Member
 From the two charts we can see they both have the greatest amount of user in the group of riding 1000 - 2000 meters.
 
 ![](Casual_and_Member_Distance_Comparison.png)
+
+From the bar chart, we can see the distribution of distance riding is quite similar between causal and member riders. 
+Member riders are riding averagely 2052 meters which is more than casual riders 1890 meters.
+
