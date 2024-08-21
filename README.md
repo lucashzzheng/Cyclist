@@ -53,3 +53,11 @@ Casual             |  Member
 From the chats, we can conclude that they are similai in distribution of duration withitn one hour.
 
 ### Distance 
+
+Casual             |  Member
+:-------------------------:|:-------------------------:
+![](Casual_Distance_Pie_Chart.png)  |  ![](Member_Distance_Chart.png)
+
+From the two charts we can see they both have the greatest amount of user in the group of riding 1000 - 2000 meters.
+
+![](Casual_and_Member_Distance_Comparison.png)
