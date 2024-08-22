@@ -65,3 +65,37 @@ From the two charts we can see they both have the greatest amount of user in the
 From the bar chart, we can see the distribution of distance riding is quite similar between causal and member riders. 
 Member riders are riding averagely 2052 meters which is more than casual riders 1890 meters.
 
+### Time
+
+The last part is the time compponent. We compare day of week and hour of day in this report.
+
+![](Day_of_Week_Camparison.png)
+
+The chart indicates that causal riders enjoy riding on Monday and weekends more than member riders. On the other hand, member riders enjoy more on Wednesday, Thursday and Friday.
+
+![](Hour_of_Day_Camparison.png)
+
+This chart reveals that member riders are more active in the morning before 10am and 4-6pm than casual riders.
+
+## Share
+
+### Tool used in the report
+This report uses only excel as a tool to visualize data. The limitaion of size of the datasets restricted the total number of data included in the report. Hence we can't explore different records under a same rider id in this report. I tried to import the 202401 dataset into mysql to increase the speed of cleaning data, however importing takes longer than I expected so I just use excel to clean data. 
+
+### Visualization
+This report contains tables, pie charts and bar charts to show the difference between casual and member riders across all factors except location factor.
+
+## Act
+
+### Intention of the report
+
+The stakeholders of the bicycle company want to attract more people becoming their members, hence the business task is to make actions to turn casual riders to member riders. We discover some key differences between casual riders and member riders in this report in the aspect of ride type, duration of riding and time distributions.
+
+### Action Suggestions
+
+- Ride type: More electric bikes in market.
+- Duration：Most of the casual users riding less than half an hour, hence promotion vouchers can be given for new users riding less than half an hour.
+- Distance: Prices should be different at difference level of riding like tax. 1000-2000m level's price can be lowered.
+- Time: Monday and weekend prices can be lower to attract more casual users. More promotion vouchers can be given when casual riders are more active.
+
+
